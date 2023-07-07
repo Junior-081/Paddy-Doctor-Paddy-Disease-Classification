@@ -5,7 +5,7 @@ The main objective of this challenge is to develop a deep learning based machine
 
 # Execute the Project on Colab
 
- The Notebook can be found by clicking on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rrDMZm90kBRAh1HnLpI_5XhnVaTaIDxX?usp=sharing)
+ The Notebook can be found by clicking on [![Open In Colab](https://colab.research.google.com/drive/1FiOEmoLrHK_cX8eId1ESryNpGuY0OKmg?usp=sharing)
 
 
 
